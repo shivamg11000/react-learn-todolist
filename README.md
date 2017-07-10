@@ -1,2 +1,4 @@
 # react-learn-todolist
-A todo list app build with reactjs
+A simple todo list app build with reactjs
+
+Have a look here https://shivamg11000.github.io/react-learn-todolist/
